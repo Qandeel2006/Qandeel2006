@@ -4,8 +4,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">hey there 👋 <br>I am Qandeel Qudsia</h1>
-
+<h1 data-importer="text" align="center">hey there 👋 <br>I am Qandeel Qudsia </h1>
 ###
 
 <div data-importer="image" align="center">
